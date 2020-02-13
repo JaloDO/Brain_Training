@@ -1,0 +1,9 @@
+C:\Proyectos\BrainTraining0\BrainTraining0\bin\Debug\BrainTraining0.exe.config
+C:\Proyectos\BrainTraining0\BrainTraining0\bin\Debug\BrainTraining0.exe
+C:\Proyectos\BrainTraining0\BrainTraining0\bin\Debug\BrainTraining0.pdb
+C:\Proyectos\BrainTraining0\BrainTraining0\obj\Debug\BrainTraining0.csprojResolveAssemblyReference.cache
+C:\Proyectos\BrainTraining0\BrainTraining0\obj\Debug\BrainTraining0.Form1.resources
+C:\Proyectos\BrainTraining0\BrainTraining0\obj\Debug\BrainTraining0.Properties.Resources.resources
+C:\Proyectos\BrainTraining0\BrainTraining0\obj\Debug\BrainTraining0.csproj.GenerateResource.Cache
+C:\Proyectos\BrainTraining0\BrainTraining0\obj\Debug\BrainTraining0.exe
+C:\Proyectos\BrainTraining0\BrainTraining0\obj\Debug\BrainTraining0.pdb
